@@ -28,11 +28,10 @@ figcaption {
 
 #details {
   display: block;
-  float: left;
+
 }
 
-div {
-  background-color: blue;
-  
+div #details {
+  float:left;
 }
 
