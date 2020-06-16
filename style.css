@@ -26,7 +26,7 @@ figcaption {
   text-align: center;
 }
 
-p#details {
+#details {
   display: block;
   float: left;
 }
