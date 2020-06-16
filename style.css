@@ -26,13 +26,14 @@ figcaption {
   text-align: center;
 }
 
-#details div {
+#details {
   display: block;
 
 }
 
 
 div {
+  float: left;
   background: red;
   text-align: center;
   width: 25%;
