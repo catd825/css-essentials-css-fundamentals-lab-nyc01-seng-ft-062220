@@ -28,7 +28,7 @@ figcaption {
 
 p#details {
   display: block;
-  text-align: left;
+  float: left;
 }
 
 div {
