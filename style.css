@@ -31,12 +31,12 @@ figcaption {
 
 }
 
-div #details {
+div {
   float: left;
 }
 
 div {
-  background: blue;
+  background: red;
   text-align: center;
   width: 25%;
 }
